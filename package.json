@@ -1,0 +1,12 @@
+{
+    "name": "votingapp",
+    "version": "1.0.0",
+    "description": "MR Sample Voting App",
+    "author": "M Raddaoui",
+    "repository": "",
+    "devDependennncies": {
+        "ethereumjs-testrpc": "^4.1.3",
+        "solc": "^0.4.17",
+        "web3": "^0.20.1"
+    }
+}
